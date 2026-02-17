@@ -14,6 +14,7 @@ MGM Token is a standard ERC-20 token smart contract developed to:
 - Serve as an example for secure token deployment
 
 This project can be adapted for:
+
 ✔ Custom token launches  
 ✔ Learning secure ERC-20 implementation  
 ✔ Formal audits and security reviews
